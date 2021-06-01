@@ -112,6 +112,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/Abhishek-DP/Company-visiting-card-template.svg?style=for-the-badge
 [issues-url]: https://github.com/Abhishek-DP/Company-visiting-card-template/issues
 [license-shield]: https://img.shields.io/github/license/Abhishek-DP/Company-visiting-card-template.svg?style=for-the-badge
-[license-url]: https://github.com/Abhishek-DP/Company-visiting-card-template/blob/main/LICENSE.md
+[license-url]: https://github.com/Abhishek-DP/Company-visiting-card-template/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Abhishek--DP
